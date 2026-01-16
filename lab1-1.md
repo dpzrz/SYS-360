@@ -11,6 +11,9 @@ Deliverable-2: Screenshot of AWS Console Home from Sandbox (it will open after c
 
 
 Deliverable-3: Screenshot of AWS console showing instance running
+<img width="1473" height="905" alt="{2D8ED8E3-A986-4F60-9F1B-CCB78AAD2772}" src="https://github.com/user-attachments/assets/d01c68bd-6ead-4995-b9d0-24852afc27f8" />
+
+
 
 Deliverable-4: Screenshot of successful SSH access through PowerShell
 

@@ -1,1 +1,3 @@
 # SYS-360
+
+Cloud computing has become increasingly central to Information Security (IS) strategies both at the corporate and personal level. It unifies a variety of technologies to provide businesses with a method to improve business efficiency and reduce costs. This course will provide students with knowledge they need to approach security in the cloud. We will start with a brief introduction to cloud computing and then jump in to cloud data security, infrastructure, and application security, etc. . This course was designed using coursework from ISC2 and the Cloud Security Alliance, two of the current leaders in this area.

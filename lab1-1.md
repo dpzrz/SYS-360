@@ -7,6 +7,9 @@ Deliverable-1: Screenshot of output from " aws sts get-caller-identity" from ter
 
 Deliverable-2: Screenshot of AWS Console Home from Sandbox (it will open after clicking AWS button at right top corner)
 
+<img width="1475" height="899" alt="{674F37C3-0C37-4598-8C59-15B7FE2938A0}" src="https://github.com/user-attachments/assets/287c6e5b-95ef-4179-893a-800b6f46fe3b" />
+
+
 Deliverable-3: Screenshot of AWS console showing instance running
 
 Deliverable-4: Screenshot of successful SSH access through PowerShell

@@ -2,6 +2,9 @@ Lab Steps
 
 Deliverable-1: Screenshot of output from " aws sts get-caller-identity" from terminal
 
+<img width="622" height="183" alt="{595DD8FC-64E9-47A8-93EF-CF7C910B2878}" src="https://github.com/user-attachments/assets/fd795c36-694a-481a-841a-5ae15dce3de8" />
+
+
 Deliverable-2: Screenshot of AWS Console Home from Sandbox (it will open after clicking AWS button at right top corner)
 
 Deliverable-3: Screenshot of AWS console showing instance running

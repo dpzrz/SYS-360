@@ -17,4 +17,7 @@ Deliverable-3: Screenshot of AWS console showing instance running
 
 Deliverable-4: Screenshot of successful SSH access through PowerShell
 
+<img width="1064" height="620" alt="{E81EE234-3777-4745-9016-038C5EFCA6B6}" src="https://github.com/user-attachments/assets/f456a5ee-51d2-470a-9728-482d09e38a93" />
+
+
   Deliverable-5: Link to your Tech Journal

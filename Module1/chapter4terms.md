@@ -20,8 +20,9 @@ Cloud Consumer: One of many endpoints. A cloud Consumer can be an org or individ
 >a software program that assumes the role of cloud consumer..."
 
 
-Cloud Service Owner:
+Cloud Service Owner: The person or org that leagally owns the cloud service. This can be both a cloud consumer or a cloud provider that owns the cloud within which the service resides in. 
 
+A cloud consumer can be a cloud 
 
 Cloud Resource Admin
 

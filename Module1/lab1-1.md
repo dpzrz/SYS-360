@@ -1,4 +1,20 @@
+# LAB1-1
+
+#### Goals for this lab
+* Configure your account on the AWS Canvas site
+* Use the AWS Academy Terminal
+* Use the AWS Academy Console
+* Launch an EC2 Instance
+* Use SSH to access EC2 Instance
+
 Lab Steps
+
+* Access the AWS Academy Cloud Foundations – (On LMS Canvas):
+* Go to modules and scroll down till you see Sandbox Environment
+* Click on the Sandbox Environment
+* Start Lab (top menu) and submit screenshots of the following:
+
+From here a termial window should show up. This is where we'll be insterting our first commands. The first command we'll be using is `aws sts get-caller-identity`
 
 Deliverable-1: Screenshot of output from " aws sts get-caller-identity" from terminal
 

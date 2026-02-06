@@ -4,6 +4,9 @@ Submit screenshot of aws --version output
 
 Submit Screenshot showing that the Instance was started (Instance ID and Launch Time included)
 
+<img width="647" height="1078" alt="Screenshot 2026-02-06 at 10 45 39 AM" src="https://github.com/user-attachments/assets/f4a5f92c-04b3-4b43-8f12-21ef092a5179" />
+
+
 Submit screenshot of running the "date" and "uname -a" commands on your instance
 
 

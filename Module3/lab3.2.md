@@ -23,10 +23,9 @@ Submit Screenshot: Connection to instance via RDP
 <img width="1197" height="775" alt="Screenshot 2026-02-08 at 1 23 28 PM" src="https://github.com/user-attachments/assets/c7e2893c-e651-45a9-bd5c-59b66a653643" />
 
 
-
-
 Submit Screenshot showing that the Instances are terminated
 
 
 
+<img width="850" height="454" alt="Screenshot 2026-02-08 at 1 26 21 PM" src="https://github.com/user-attachments/assets/34977d91-8aea-42d8-8e0a-2d376931b57f" />
 

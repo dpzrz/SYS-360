@@ -13,3 +13,5 @@ Submit screenshot of running the "date" and "uname -a" commands on your instance
 
 
 Submit - from the AWS Console - EC2 - Instances - Screenshot showing the terminated instance (you may need to refresh if it still shows running)
+<img width="843" height="327" alt="Screenshot 2026-02-08 at 12 46 53 PM" src="https://github.com/user-attachments/assets/ef45882f-f4c7-4d4c-812f-0a95c8aa49d0" />
+<img width="843" height="327" alt="Screenshot 2026-02-08 at 12 48 10 PM" src="https://github.com/user-attachments/assets/f7e01f8b-62cb-4dcd-8ece-70a9cc291312" />

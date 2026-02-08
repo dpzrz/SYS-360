@@ -9,5 +9,7 @@ Submit Screenshot showing that the Instance was started (Instance ID and Launch 
 
 Submit screenshot of running the "date" and "uname -a" commands on your instance
 
+<img width="843" height="327" alt="Screenshot 2026-02-08 at 12 44 38 PM" src="https://github.com/user-attachments/assets/366a9c80-f37b-4a3a-b575-785859e307a1" />
+
 
 Submit - from the AWS Console - EC2 - Instances - Screenshot showing the terminated instance (you may need to refresh if it still shows running)

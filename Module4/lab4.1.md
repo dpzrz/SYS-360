@@ -21,4 +21,9 @@ Task 5: Screenshot showing completed snapshot
 <img width="594" height="45" alt="Screenshot 2026-02-11 at 7 43 35 PM" src="https://github.com/user-attachments/assets/a8b8ee91-4841-4641-817c-134d32483207" />
 
 
+If you ever wish to retrieve data stored in a snapshot, you can Restore the snapshot to a new EBS volume.
+
+<img width="594" height="393" alt="Screenshot 2026-02-11 at 7 45 52 PM" src="https://github.com/user-attachments/assets/67243197-db2e-4b12-93bf-b25f40abe7a6" />
+
 Task 6: Screenshot showing file from restored volume
+<img width="594" height="194" alt="Screenshot 2026-02-11 at 7 48 50 PM" src="https://github.com/user-attachments/assets/8665af3a-3864-4cc9-9a76-9205ff838598" />

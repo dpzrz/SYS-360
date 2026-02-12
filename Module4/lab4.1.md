@@ -14,6 +14,11 @@ Task 4: Screenshot of cat command showing that you were able to create a file on
 
 
 Task 5: Screenshot showing completed snapshot
+<img width="829" height="612" alt="Screenshot 2026-02-11 at 7 42 42 PM" src="https://github.com/user-attachments/assets/f5b9715c-8863-418c-9ab1-bdf90f5c6b1e" />
+
+
+
+<img width="594" height="45" alt="Screenshot 2026-02-11 at 7 43 35 PM" src="https://github.com/user-attachments/assets/a8b8ee91-4841-4641-817c-134d32483207" />
 
 
 Task 6: Screenshot showing file from restored volume

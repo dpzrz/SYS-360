@@ -7,6 +7,7 @@ Task 2: Screenshot showing attached volume
 
 
 Task 4: Screenshot of cat command showing that you were able to create a file on the volume
+<img width="829" height="149" alt="Screenshot 2026-02-11 at 7 41 09 PM" src="https://github.com/user-attachments/assets/c2490b89-aa0d-4df3-9aac-11459088aa4a" />
 
 
 <img width="616" height="210" alt="Screenshot 2026-02-11 at 7 39 20 PM" src="https://github.com/user-attachments/assets/785c51f8-0fb0-43b5-93d3-4a5bb77fbe88" />

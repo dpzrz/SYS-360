@@ -8,6 +8,7 @@ Submit from the tasks in the lab:
 <img width="1465" height="525" alt="Screenshot 2026-02-17 at 3 02 28 PM" src="https://github.com/user-attachments/assets/451e4873-1120-459a-b7d7-76fbee629f72" />
 
 * Task 3: Screenshot of "Invalid Argument" Error
+<img width="1465" height="525" alt="Screenshot 2026-02-17 at 3 05 39 PM" src="https://github.com/user-attachments/assets/d9b22225-0cf4-4a00-ad01-94b207a78b04" />
 
 * Task 4: Screenshot of URL with creds info when accessing decrypted file
   

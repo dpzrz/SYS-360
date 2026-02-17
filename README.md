@@ -6,7 +6,7 @@ Cloud computing has become increasingly central to Information Security (IS) str
 Semseter View
 
 
-[Module 1](): Cloud Architecture Concepts 
+[Module 1](https://github.com/dpzrz/SYS-360/tree/main/Module1): Cloud Architecture Concepts 
 
 
 Module 2: Cloud Design Requirements + Recorded Lecture and Assignments. No Class

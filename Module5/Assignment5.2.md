@@ -13,6 +13,8 @@ Submit from the tasks in the lab:
 
 * Task 4: Screenshot of URL with creds info when accessing decrypted file
   
+<img width="1271" height="792" alt="Screenshot 2026-02-17 at 3 13 42 PM" src="https://github.com/user-attachments/assets/32725702-6732-4f3a-98b0-ae404b62b50b" />
+
 * Task 5: Screenshot of Decrypt Event in Cloudtrail
   
 * Task 6: Screenshot of Instance - Storage Tab showing the volume is encrypted with a KMS key

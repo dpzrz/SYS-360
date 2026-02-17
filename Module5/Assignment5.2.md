@@ -4,9 +4,11 @@ Submit from the tasks in the lab:
   <img width="1465" height="349" alt="Screenshot 2026-02-17 at 2 58 51 PM" src="https://github.com/user-attachments/assets/52c80ba2-3d11-4cec-aa12-e9317ecec978" />
 
 * Task 2: Screenshot of clock.png properties with SSE settings
-  
+  <img width="1465" height="525" alt="Screenshot 2026-02-17 at 3 02 15 PM" src="https://github.com/user-attachments/assets/b26c78ca-0e40-45b0-b8e1-b13943fb4b47" />
+<img width="1465" height="525" alt="Screenshot 2026-02-17 at 3 02 28 PM" src="https://github.com/user-attachments/assets/451e4873-1120-459a-b7d7-76fbee629f72" />
+
 * Task 3: Screenshot of "Invalid Argument" Error
-  
+
 * Task 4: Screenshot of URL with creds info when accessing decrypted file
   
 * Task 5: Screenshot of Decrypt Event in Cloudtrail

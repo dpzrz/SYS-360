@@ -8,6 +8,7 @@ Semseter View
 
 [Module 1](): Cloud Architecture Concepts 
 
+
 Module 2: Cloud Design Requirements + Recorded Lecture and Assignments. No Class
 
 Module 3: Cloud Data Security I

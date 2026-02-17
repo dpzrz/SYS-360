@@ -9,7 +9,7 @@ Semseter View
 [Module 1](https://github.com/dpzrz/SYS-360/tree/main/Module1): Cloud Architecture Concepts 
 
 
-[Module 2](https://github.com/dpzrz/SYS-360/tree/main/Module2): Cloud Design Requirements + Recorded Lecture and Assignments. No Class
+[Module 2](https://github.com/dpzrz/SYS-360/tree/main/Module2): Cloud Design Requirements + Recorded Lecture and Assignments
 
 [Module 3](https://github.com/dpzrz/SYS-360/tree/main/Module3): Cloud Data Security I
 

@@ -24,6 +24,6 @@ https://c195072a5007712l13845691t1w64440419288-imagebucket-vje7ygv8ip8k.s3.us-ea
 <img width="1271" height="906" alt="Screenshot 2026-02-17 at 3 18 59 PM" src="https://github.com/user-attachments/assets/fd323fd6-1013-4cf1-a791-62ae0febbb76" />
 
 * Task 6: Screenshot of Instance - Storage Tab showing the volume is encrypted with a KMS key
-  <img width="1271" height="768" alt="Screenshot 2026-02-17 at 3 25 37 PM" src="https://github.com/user-attachments/assets/deeb0b66-20d4-48cd-a1dc-d18cf08218a4" />
+<img width="1464" height="669" alt="Screenshot 2026-02-17 at 3 30 54 PM" src="https://github.com/user-attachments/assets/9478606d-4510-418e-a60e-9339edd22379" />
 
 * Task 7: Screenshot showing the CreateGrant event with the Decrypt operation and errorCode

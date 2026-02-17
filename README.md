@@ -11,10 +11,10 @@ Semseter View
 
 [Module 2](https://github.com/dpzrz/SYS-360/tree/main/Module2): Cloud Design Requirements + Recorded Lecture and Assignments. No Class
 
-Module 3: Cloud Data Security I
+[Module 3](https://github.com/dpzrz/SYS-360/tree/main/Module3): Cloud Data Security I
 
 
-Module 4: Cloud Data Security II
+[Module 4](https://github.com/dpzrz/SYS-360/tree/main/Module4): Cloud Data Security II
 
 
 Module 5: Cloud Platform and Infrastructure Security

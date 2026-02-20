@@ -4,3 +4,4 @@ SUBMIT: Screenshot of Apache Test Page (showing address bar with your EC2 DNS na
 
 SUBMIT: Screenshot of PHPInfo page (showing EC2 Public DNS name in Browser)
 
+<img width="846" height="1089" alt="Screenshot 2026-02-20 at 10 35 02 AM" src="https://github.com/user-attachments/assets/47bf82cb-32ec-4d74-b3fb-c1919c46e5f6" />

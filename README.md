@@ -17,7 +17,7 @@ Semseter View
 [Module 4](https://github.com/dpzrz/SYS-360/tree/main/Module4): Cloud Data Security II
 
 
-Module 5: Cloud Platform and Infrastructure Security
+[Module 5](https://github.com/dpzrz/SYS-360/tree/main/Module5): Cloud Platform and Infrastructure Security
 
 
 Module 6: Cloud Risks

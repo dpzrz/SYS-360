@@ -13,6 +13,9 @@ Submit: Screenshot of successful query of AlbumTitle index)
 
 Submit: Screenshot of successful query of new table
 
+<img width="988" height="830" alt="Screenshot 2026-03-01 at 12 16 09 PM" src="https://github.com/user-attachments/assets/6c1a7121-2761-4f82-bd62-98e31e855227" />
 
 
 Submit Screenshot: Showing the specifics of why the 2 items failed import
+
+<img width="1473" height="829" alt="Screenshot 2026-03-01 at 12 17 21 PM" src="https://github.com/user-attachments/assets/e4eaa1e0-d5b1-4ce0-8310-92fee11c608f" />

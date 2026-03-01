@@ -8,6 +8,7 @@ Submit: Screenshot of a successful query
 
 Submit: Screenshot of successful query of AlbumTitle index)
 
+<img width="988" height="830" alt="Screenshot 2026-03-01 at 11 49 16 AM" src="https://github.com/user-attachments/assets/fe8c3519-6c6c-4cd3-b825-9b2ab18a7a71" />
 
 
 Submit: Screenshot of successful query of new table

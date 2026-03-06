@@ -12,3 +12,4 @@ Make sure to submit the completed  activity within the AWS Course/Canvas
 
 Also, take a screenshot of successful completion and submit to Champlain Canvas
 
+<img width="475" height="436" alt="image" src="https://github.com/user-attachments/assets/62892af9-bcf2-4137-8c29-3d21a31aa17f" />

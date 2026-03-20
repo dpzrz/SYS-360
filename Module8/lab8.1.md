@@ -5,12 +5,6 @@
 
 
 
-<img width="1279" height="608" alt="image" src="https://github.com/user-attachments/assets/3dd2f9b6-51cd-4e04-8b45-c787ba74d161" />
-
-
-
-
-
 
 ## Submit: Screenshot of your Qualys SSL Lab Report
 <img width="1272" height="793" alt="image" src="https://github.com/user-attachments/assets/69f45f30-791c-40c1-add5-f6ca251cedc5" />

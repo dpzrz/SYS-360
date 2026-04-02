@@ -16,6 +16,7 @@ creenshot
 
 
 Submit Screenshot of your Running Instance using your new VPC
+<img width="853" height="697" alt="Screenshot 2026-04-02 at 5 06 25 PM" src="https://github.com/user-attachments/assets/3f386155-7d35-4c18-a9de-b01eabafca67" />
 
 
 Submit Screenshot of apache page loaded using Elastic IP

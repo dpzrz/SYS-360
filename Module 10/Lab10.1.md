@@ -3,6 +3,7 @@ Submit Screenshot of your new VPC
 
 In the navigation pane, choose Subnets. The console displays the subnet that was created when you created your VPC. You can identify the subnet by its name in Name column, or you can use the VPC information that you obtained in the previous step and look in the VPC column.
 *  Submit Screenshot
+<img width="853" height="697" alt="Screenshot 2026-04-02 at 5 00 21 PM" src="https://github.com/user-attachments/assets/ba0b614d-3b32-41be-af31-15cbca748b85" />
 
 
 In the navigation pane, choose Internet Gateways. You can find the internet gateway that's attached to your VPC by looking at the VPC column, which displays the ID and the name (if applicable) of the VPC.

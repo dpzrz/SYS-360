@@ -1,4 +1,5 @@
 Submit Screenshot of your new VPC
+<img width="789" height="572" alt="Screenshot 2026-04-02 at 4 59 41 PM" src="https://github.com/user-attachments/assets/cc555f4b-fe3f-4895-9b23-1b20d755519f" />
 
 In the navigation pane, choose Subnets. The console displays the subnet that was created when you created your VPC. You can identify the subnet by its name in Name column, or you can use the VPC information that you obtained in the previous step and look in the VPC column.
 *  Submit Screenshot

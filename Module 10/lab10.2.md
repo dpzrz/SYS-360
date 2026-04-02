@@ -19,3 +19,5 @@ Submission Screenshots
 
   * Pings from Private Instance (success to Public, Fail to Internet)
    *  Pings from Public Instance (success to Private, Success to Internet)
+
+Ran into some troublw within the Lab. Reviewing the steps didnt produce a diffrent result. 

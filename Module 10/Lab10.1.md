@@ -20,5 +20,7 @@ Submit Screenshot of your Running Instance using your new VPC
 
 
 Submit Screenshot of apache page loaded using Elastic IP
+<img width="853" height="697" alt="Screenshot 2026-04-02 at 5 18 10 PM" src="https://github.com/user-attachments/assets/42a18d08-2369-4d9c-9600-a61637d9b554" />
 
 Submit Screenshot of your server web page loaded using a dns name
+<img width="853" height="697" alt="Screenshot 2026-04-02 at 5 25 48 PM" src="https://github.com/user-attachments/assets/45efa1f5-a55b-4c40-adea-8df39d9410ca" />

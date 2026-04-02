@@ -7,7 +7,8 @@ In the navigation pane, choose Subnets. The console displays the subnet that was
 
 
 In the navigation pane, choose Internet Gateways. You can find the internet gateway that's attached to your VPC by looking at the VPC column, which displays the ID and the name (if applicable) of the VPC.
-*  Submit Screenshot
+*  Submit S<img width="853" height="697" alt="Screenshot 2026-04-02 at 5 00 44 PM" src="https://github.com/user-attachments/assets/dc69d228-3437-47f7-a2a2-6eab7be5d3b5" />
+creenshot
 
 5. Submit Screenshot
 
